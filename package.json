@@ -1,0 +1,14 @@
+{
+  "name": "create-askr-node",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Alex-Werner <@obusco>",
+  "license": "MIT",
+  "bin": {
+    "create-askr-node": "./create-askr-node.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "node-askr": "^1.0.0"
+  }
+}

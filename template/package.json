@@ -1,0 +1,14 @@
+{
+  "name": "unamed-service",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "dependencies": {
+    "hermodlog": "^1.1.1",
+    "node-askr": "^1.0.0"
+  }
+}
